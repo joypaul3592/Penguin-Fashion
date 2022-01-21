@@ -1,0 +1,90 @@
+@media (max-width:1200px) {
+    .main-btn {
+        height: 3rem;
+        width: 8.625rem;
+    }
+
+
+}
+
+@media (max-width:1030px) {
+    .main-btn {
+        height: 3rem;
+        width: 8.625rem;
+    }
+
+
+    /* ============= Service CSS ============*/
+    .secvice .card-body h5 {
+        font-size: 1.2rem;
+    }
+
+    .secvice .card-body P {
+        font-size: 0.85rem;
+        line-height: 1.25rem;
+    }
+
+}
+
+
+
+@media (max-width:991px) {
+    .main-btn {
+        height: 3rem;
+        width: 8.625rem;
+    }
+
+    #header .navbar .navbar-collapse {
+        background: var(--bg-hero);
+        position: absolute;
+        width: 100%;
+        top: 95%;
+        right: 0;
+    }
+
+    .home .home-right {
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+}
+
+
+
+@media (max-width:767px) {
+    .main-btn {
+        height: 3rem;
+        width: 9.625rem;
+    }
+
+    #header .navbar-brand img {
+        width: 192.75px;
+        height: 26px;
+    }
+
+    /* ======home css======= */
+    .home {
+        padding: 150px 0 120px;
+    }
+
+    .home .hero-left h1 {
+        font-size: 3.5rem;
+        line-height: 4.5rem;
+    }
+
+    .home .hero-left p {
+        font-size: 1rem;
+        line-height: 1.625rem;
+        color: var(--text-gray);
+        font-weight: 400;
+        width: 80%;
+    }
+
+    .home .home-right {
+        padding-top: 60px;
+    }
+
+
+}
+
+@media (max-width:330px) {}
